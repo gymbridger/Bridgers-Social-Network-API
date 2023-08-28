@@ -12,10 +12,11 @@ This repository contains files for a Social Network API. The API is designed to 
 - [Credits](#credits)
 - [License](#license)
 
+## Installation
+
 To use this Social Network API, install these packages, and run the following command in the terminal:
 
 `npm install express`, `npm install mongoose`, 
-
 
 ## Usage
 To use the Social Network API, follow these steps:
@@ -27,9 +28,9 @@ To use the Social Network API, follow these steps:
   
 For a demo of the application's functionality, visit [this link](https://drive.google.com/file/d/1GLWWXunBzf7QfC73xpT0ARKlxFdRFljZ/view).
 
-Credits
+## Credits
 Me
 
-License
+## License
 None
 
