@@ -24,7 +24,7 @@ To use the Social Network API, follow these steps:
 - Run the command: `node server.js` so the server will start.
 - The server will listen for incoming requests.
 - You can then use an API testing tool, like Insomnia, to interact with the server and perform operations on users, thoughts, reactions, and friend lists.
-- 
+  
 For a demo of the application's functionality, visit [this link](https://drive.google.com/file/d/1GLWWXunBzf7QfC73xpT0ARKlxFdRFljZ/view).
 
 Credits
